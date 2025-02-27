@@ -2,9 +2,9 @@
 
 AdverseCo is a SwiftUI-based iOS application designed to showcase digital advertising solutions. The app provides a native experience with three main sections:
 
-  ![AdverseCo Screenshot](IMG_7710.png)
-  ![AdverseCo Screenshot](IMG_7711.png)
-  ![AdverseCo Screenshot](IMG_7712.png)
+  ![AdverseCo Screenshot](Screenshot/IMG_7710.png)
+  ![AdCreation Screenshot](Screenshot/IMG_7711.png)
+  ![Founder Screenshot](Screenshot/IMG_7712.png)
 
 
 - **Website:** Displays the company’s landing page.
